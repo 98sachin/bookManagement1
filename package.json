@@ -1,0 +1,26 @@
+{
+  "name": "bookmanagement1",
+  "version": "1.0.0",
+  "description": "book-record-management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/98sachin/bookManagement1.git"
+  },
+  "author": "sachin sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/98sachin/bookManagement1/issues"
+  },
+  "homepage": "https://github.com/98sachin/bookManagement1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
